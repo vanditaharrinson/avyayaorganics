@@ -1,0 +1,12 @@
+<h2>About Me</h2>
+<p>I am learning how to build websites with GitHub!</p>
+
+<h2>My Hobbies</h2>
+<ul>
+    <li>Reading</li>
+    <li>Coding</li>
+    <li>Traveling</li>
+</ul>
+
+<h2>Contact</h2>
+<p>Email me at <a href="mailto:example@example.com">example@example.com</a></p>
